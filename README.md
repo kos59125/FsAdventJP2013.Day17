@@ -1,7 +1,7 @@
 F# Advent Calendar 2013, 17th
 =============================
 
-The main article is available at [http://blog.recyclebin.jp/archives/4141](http://blog.recyclebin.jp/archives/4141) (in Japanese/“ú–{Œê).
+The main article is available at [http://blog.recyclebin.jp/archives/4141](http://blog.recyclebin.jp/archives/4141) (in Japanese/æ—¥æœ¬èªž).
 
 Requirements
 ------------
